@@ -1,10 +1,7 @@
 # Hi there!
 
-My name is Zach and this is the Github profile for my now personal business Sneaky Crow. You can find my personal github profile [here now][ctrlsquid]. I do host most of my projects on this profile, but it is not a complete history of my personal contributions. You can find my contributions to various open source projects even outside my personal business on my other profile.
+My name is Zach (aka [ctrlsquid][ctrlsquid]) and this is the page for my software development studio, Sneaky Crow. 
 
-
-For context, I used to use the online pseudonym `sneakycrow` and I ended up using that as a business name. Now I utilize `ctrlsquid` as my personal online psyuedonym.
-
-Thanks for visiting! Enjoy your stay!
+Sneaky Crow does a wide variety of software development and technical design, but primarily focuses on developing useful, free, and fun tools for people to use. 
 
 [ctrlsquid]:https://github.com/ctrlsquid
